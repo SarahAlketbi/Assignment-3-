@@ -61,6 +61,11 @@ The data is preprocessed to join air quality sensor readings with NYC neighborho
 
 ##  Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1Buk0DJzgzc805ktkCM3SxBgwplq3CUeu#scrollTo=OJ13ywg1jJQ5)
+[![Open In Colab]
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnfalStudent/NYC-Air-Quality-Analysis/blob/main/Activity3_questions.ipynb)
+
 
 ---
