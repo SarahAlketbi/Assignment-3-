@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Buk0DJzgzc805ktkCM3SxBgwplq3CUeu#scrollTo=OJ13ywg1jJQ5)
 
 
-# Activity 3: Air Quality Analysis in NYC
+# Activity 3: Air Quality Analysis in NYC - Done by : Sarah Saeed Alketbi U24105519
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Buk0DJzgzc805ktkCM3SxBgwplq3CUeu#scrollTo=OJ13ywg1jJQ5)
 
 
